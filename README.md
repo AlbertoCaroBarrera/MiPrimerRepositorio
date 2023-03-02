@@ -1,7 +1,7 @@
-# MiPrimerRepositorio
-Mi projecto con Git
+# Este fué mi primer repositorio en Git.
 
-Este es un documento de prueba con git
+
+Aquí dejo algunos de los comandos utilizados en Git Bash para subir y actualizar los documentos.
 
 
 git init -> Añadir git a mi carpeta Projecto
